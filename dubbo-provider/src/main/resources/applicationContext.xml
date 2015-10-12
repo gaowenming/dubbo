@@ -19,7 +19,4 @@
 	
 	<aop:aspectj-autoproxy />
 	
-   <bean id="sayHelloService" class="com.smart.dubbo.provider.SayHelloServiceImpl"/>
-	
-	
 </beans>

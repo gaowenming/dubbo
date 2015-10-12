@@ -1,3 +1,4 @@
+package com.smart.dubbo.consumer;
 import javax.annotation.Resource;
 
 import org.junit.Test;
