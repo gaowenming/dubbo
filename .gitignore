@@ -20,6 +20,7 @@ target
 
 # ignore eclipse files
 .settings
+*/.settings
 .metadata
 
 /webapp/WEB-INF/classes/
